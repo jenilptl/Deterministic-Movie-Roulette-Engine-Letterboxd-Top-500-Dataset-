@@ -1,0 +1,55 @@
+{
+  "history": [
+    {
+      "slug": "fireworks-1997",
+      "rank": 277,
+      "title": "Fireworks",
+      "year": 1997,
+      "letterboxdUrl": "https://letterboxd.com/film/fireworks-1997/",
+      "at": "2026-04-01T13:10:54.306Z"
+    },
+    {
+      "slug": "a-dogs-will",
+      "rank": 291,
+      "title": "A Dog's Will",
+      "year": 2000,
+      "letterboxdUrl": "https://letterboxd.com/film/a-dogs-will/",
+      "at": "2026-04-01T12:20:40.573Z"
+    },
+    {
+      "slug": "memoir-of-a-snail",
+      "rank": 414,
+      "title": "Memoir of a Snail",
+      "year": 2024,
+      "letterboxdUrl": "https://letterboxd.com/film/memoir-of-a-snail/",
+      "at": "2026-04-01T11:15:45.941Z"
+    },
+    {
+      "slug": "the-conformist",
+      "rank": 336,
+      "title": "The Conformist",
+      "year": 1970,
+      "letterboxdUrl": "https://letterboxd.com/film/the-conformist/",
+      "at": "2026-04-01T11:15:16.793Z"
+    },
+    {
+      "slug": "alice-in-the-cities",
+      "rank": 429,
+      "title": "Alice in the Cities",
+      "year": 1974,
+      "letterboxdUrl": "https://letterboxd.com/film/alice-in-the-cities/",
+      "at": "2026-04-01T11:14:45.702Z"
+    }
+  ],
+  "bySlug": {
+    "alice-in-the-cities": {
+      "updatedAt": "2026-04-01T11:14:54.944Z",
+      "watched": true
+    },
+    "the-shawshank-redemption": {
+      "watched": true,
+      "userRating": 4.5,
+      "updatedAt": "2026-04-01T11:15:23.933Z"
+    }
+  }
+}
